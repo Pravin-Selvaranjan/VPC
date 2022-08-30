@@ -1,5 +1,8 @@
 # CIDR Blocks
 
+![VPC_Image2](https://user-images.githubusercontent.com/110179866/187457280-b58fa33d-e259-4653-b438-3476ad0a4edb.png)
+
+
 - Classless Inter-Domain Routing (CIDR) block basically is a method for allocating IP addresses and IP routing. When you create a network or route table, you need to specify what range are you working in. "0.0.0.0" means that it will match to any IP address. Some IP addresses are specific, like 10.0.0.0, which will match to any IP address beginning with 10. With any IP address range, you can be more specific by using a suffix(something like /32 from your example). These allow the notation to specify number of bits to be used from Prefix(actual IP-range like 10.0.0.0). It represents the bit length of the subnet mask, as indicated above. The subnet mask is like masking when painting. You place a mask over what you DO NOT want to paint on.
 
 
