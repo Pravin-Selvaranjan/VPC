@@ -1,4 +1,4 @@
-# Virtual Private Network (VPC)
+# Virtual Private Cloud (VPC)
 
 ![sdgawsg](https://user-images.githubusercontent.com/110179866/187456973-94f9c503-332a-4ca7-b409-49a46cb734e7.jpeg)
 
