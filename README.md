@@ -1,6 +1,7 @@
 # Virtual Private Cloud (VPC)
 
-![sdgawsg](https://user-images.githubusercontent.com/110179866/187456973-94f9c503-332a-4ca7-b409-49a46cb734e7.jpeg)
+![sdgawsg (2)](https://user-images.githubusercontent.com/110179866/187683570-f4f92a8a-025a-4b8e-b17d-743d04560c18.jpeg)
+
 
 
 ### What is a VPC?
