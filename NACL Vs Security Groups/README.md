@@ -1,5 +1,7 @@
 # NACL Vs Security Groups
 
+![SGNCL-latest](https://user-images.githubusercontent.com/110179866/187655441-f47ffa82-472b-4fd0-982f-8b792af2e78e.jpg)
+
 
 ## NACL
 
