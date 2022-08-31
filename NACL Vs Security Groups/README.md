@@ -10,6 +10,12 @@ NACLs are stateless firewalls which work at Subnet Level, meaning NACLs act like
 
 - NACL can be understood as the firewall or protection for the subnet.
 - These are stateless, meaning any change applied to an incoming rule isn’t automatically applied to an outgoing rule.
+
+![60620c1fb29eef815ec19a37_Comparison](https://user-images.githubusercontent.com/110179866/187655761-baa2fc38-5f0c-4654-b182-d473168e4ebd.png)
+
+
+
+
 - Multiple subnets can be bound with a single NACL, but one subnet can be bound with a single NACL only, at a time
 
 ### Example
